@@ -1,13 +1,13 @@
 Project Details
-  Name: Rama Chandra
-  Company: CodTech IT Solutions
-  ID: CT6WDS2618
-  Domain: Application Development
-  Duration: November 30, 2024 - January 15, 2025
-  Mentor: Muzammil Shaik
-Overview
-  Project Title:
-  BMI Calculator App Using Python
+  Name: Rama Chandra  
+  Company: CodTech IT Solutions  
+  ID: CT6WDS2618  
+  Domain: Application Development  
+  Duration: November 30, 2024 - January 15, 2025  
+  Mentor: Muzammil Shaik  
+Overview  
+  Project Title:  
+  BMI Calculator App Using Python  
 
 Objective:
   To create a Python-based application that calculates the Body Mass Index (BMI) of users and categorizes their health status based on the calculated value. The application will help users understand their BMI in a simple and intuitive manner.
